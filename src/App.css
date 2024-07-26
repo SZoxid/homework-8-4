@@ -1,0 +1,9 @@
+body {
+  background-color: #0d0714;
+}
+
+ul {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  scroll-behavior: smooth;
+}
