@@ -1,5 +1,5 @@
 {
-  "name": "homework",
+  "name": "todo-app-8.4",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,8 +12,7 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-icons": "^5.2.1",
-    "react-scripts": "^5.0.1"
+    "react-icons": "^5.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
@@ -27,7 +26,7 @@
     "eslint-plugin-react-refresh": "^0.4.7",
     "postcss": "^8.4.40",
     "tailwindcss": "^3.4.7",
-    "typescript": "^5.5.4",
+    "typescript": "^5.2.2",
     "vite": "^5.3.4"
   }
 }
